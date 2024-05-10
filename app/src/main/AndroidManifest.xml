@@ -52,7 +52,7 @@
             android:name=".ZakatFoundation"
             android:exported="false" />
         <activity
-            android:name=".ZakatQandA"
+            android:name=".AboutUs"
             android:exported="false" />
         <activity
             android:name=".ZakatCalculator"

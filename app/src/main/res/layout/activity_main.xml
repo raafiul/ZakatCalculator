@@ -238,7 +238,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/ic_q_a"
+                    android:src="@drawable/ic_wroking_icon"
                     android:layout_gravity="center"
 
 
@@ -250,7 +250,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_margin="10dp"
-                    android:text="যাকাত পরিচিতি"
+                    android:text="আমাদের সম্পর্কে"
                     android:textColor="#070707"
                     android:textSize="14sp"
 
