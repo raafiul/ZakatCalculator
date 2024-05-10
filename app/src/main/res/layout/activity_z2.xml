@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাতের গুরুত্ব"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+
+                android:textSize="18sp"
+                android:text="যাকাত ইসলামের তৃতীয় স্তম্ভ। ঈমান সম্পর্কিত সাক্ষ্য প্রদান ও সালাতের পরই এর স্থান। সালাত যেমন ফরয, যাকাতও তেমন ফরয। আল-কুরআনের বহু স্থানে সালাতের আদেশের সঙ্গে সঙ্গেই যাকাতের আদেশ প্রদান করা হয়েছে। হিজরতের পূর্বে নবুওয়াতের প্রথম ভাগে আল-কুরআনে যেসকল সূরা নাযিল হয়েছিল সূরা মুযযাম্মিল সেগুলির অন্যতম। এই সূরায়ও যাকাত দেয়ার নির্দেশ আছে। যাকাত সংক্রান্ত বিস্তারিত নির্দেশাবলী নাযিল হওয়ার পূর্বে মহানবী (সাঃ) ও সাহাবীগণ নিজেদের প্রয়োজনের অতিরিক্ত ধন-সম্পদ প্রায়শঃই দান করে দিতেন। সূরা বাকারার ২১৯ আয়াতে আছে, “তারা আপনার কাছে জানতে চায়, তারা কি দান করবে? আপনি বলে দিন, তোমাদের প্রয়োজনীয় ব্যয়ের পর যা উদ্বৃত্ত থাকে তাই দান কর।”\n \n
+
+অতঃপর আল-কুরআনের সূরা তাওবার ১০৩ নং আয়াত নাযিল হওয়ার পর যাকাত আদায় ও তা নির্দিষ্ট খাতে ব্যয় করা মুসলিমদের উপর ফরয কর্তব্যরূপে নির্ধারিত হয়। সালাত ও যাকাত – এই দু’টি ইবাদতই ইসলামী জীবনের প্রাথমিক নিদর্শন। কোন সম্প্রদায় যদি সামগ্রিকভাবে তা সম্পূর্ণরূপে বর্জন করে তাহলে সে সম্প্রদায় মুসলিম মিল্লাতের অন্তর্ভূক্ত থাকে না। এই কারণে হযরত আবূ বকর (রাঃ)-এর খিলাফতকালে যারা যাকাত দিতে অস্বীকার করেছিল তাদের বিরুদ্ধে সাহাবীগণ (রাঃ) ঐকমত্যে জিহাদ ঘোষণা করেছেন। সিদ্ধান্ত গ্রহণ কালে হযরত আবূ বকর (রাঃ) বলেছিলেন, “আল্লাহর শপথ! যে ব্যক্তি সালাত যাকাতের মধ্যে পার্থক্য করে, আমি তার বিরুদ্ধে অবশ্যই জিহাদ করবো।”(বুখারী ও মুসলিম)।\n \n
+
+হিজরী ৮ম সনে যাকাত ও সাদাকা সংগ্রহ ও তা যথোপযুক্ত পাত্রে ব্যয়ের দায়িত্বভার মুসলিমদের ইমামের উপর অর্পণ করে সূরা তাওবার আয়াত নাযিল হয়। রাসূল আকরাম (সাঃ)-এর জীবদ্দশায় এই দায়িত্ব নিজেই পালন করতেন।\n \n
+
+তাঁর ওফাতের পর খলিফা তথা মুসলিমদের ইমামের উপর এই দায়িত্ব অর্পিত হয়েছে। রাষ্ট্রীয় ব্যবস্থাপনায় যাকাত সংগ্রহ কার্যক্রম মক্কা বিজয়ের পর অবলম্বন করা হয়েছিল।"
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

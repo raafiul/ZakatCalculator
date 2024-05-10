@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সাদাকাতুল ফিতর "
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="সাদাকাতুল ফিতরের প্রচলিত নাম ফিতরা। ফিতরা এক প্রকার যাকাত। পবিত্র রমযান মাসের শেষে নিসাব পরিমাণ সম্পদের মালিক প্রত্যেক ব্যক্তির উপর ফিতরা ওয়াজিব। যাকাতের নিসাব ও ফিতরার নিসাব একইরূপ। তবে ফিতরার নিসাব পরিমাণ সম্পদ এক বৎসর অধিকারে থাকার প্রয়োজন হয় না। বসবাসের ঘর, ঘরের তৈজষপত্র, নিত্যব্যবহার্য জিনিসপত্র, বইপত্র, কাপড়-চোপড়, আসবাবপত্র ও ঋণের অতিরিক্ত সম্পদের সর্বমোট মূল্য সাড়ে বায়ান্ন তোলা বা ৬১২.৩৫ গ্রাম রূপার সমান হলেই ফিতরা দিতে হয়, এর কম হলে নয়। ঈদের দিন নিসাব পরিমাণ সম্পদ অধিকারে থাকলেই ফিতরা ওয়াজিব হয়।
+                \n \n
+
+নিসাবের মালিকের উপর তার নিজের এবং তার নাবালিগ সন্তানাদির ফিতরা দেয়া ওয়াজিব। এমনকি ঈদের দিন সুবহে-সাদিকের পূর্বে যে সন্তান জন্মগ্রহণ করে তারও ফিতরা ওয়াজিব। কিন্তু যে ব্যক্তি সুবহে-সাদিকের পূর্বে মারা যায় অথবা সুবহে- সাদিকের পরে ইসলাম গ্রহণ করে বা জন্ম নেয়, তার উপর ফিতরা ওয়াজিব নয়।"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

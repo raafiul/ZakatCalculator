@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাতের পরিমাণ "
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="সোনা-রূপার ও পণ্যদ্রব্যের যাকাত চল্লিশ ভাগের একভাগ। নদী বা বৃষ্টির পানি দ্বারা বা অন্যান্য প্রাকৃতিক উপায়ে সিঞ্চিত পানি দ্বারা উৎপন্ন ফসলের যাকাত দশভাগের একভাগ। কৃষক যে জমিতে নিজ সেচ ব্যবস্থাপনায় ফসল উৎপাদন করে সেই জমিতে উৎপন্ন শস্যের যাকাত বিশ ভাগের একভাগ। অ-মুসলিম শত্রুদের বিরুদ্ধে যুদ্ধে বিজয়লব্ধ ধন-সম্পদ, খনিজদ্রব্য ও ভূগর্ভস্থ সম্পদের যাকাত এক-পঞ্চমাংশ। \n \n
+
+মাঠে চরে খাওয়া গবাদি পশুর মধ্যে উট, গরু, মহিষ, ছাগল, ভেড়ার এবং হানাফী মাযহাব মতে ঘোড়ারও যাকাত দিতে হয়। উট পাঁচটি, গরু বা মহিষ বা উভয়ে মিলে ত্রিশটি এবং ছাগল বা ভেড়া বা উভয়ে মিলে চল্লিশটি হলে পশুসম্পদের নিসাব পূর্ণ হয়। নিসাব পরিমাণ বা ততোধিক পশুসম্পদ এক বৎসর পূর্ণ হলে তার যাকাত দিতে হয়। পাঁচ থেকে নয়টি উটের যাকাত একটি ছাগল, ত্রিশটি গরু-মহিষের যাকাত একটি এক বছর বয়স্ক বাছুর এবং চল্লিশ থেকে একশ বিশটি ছাগলের যাকাত একটি ছাগল। গবাদি পশুর সংখ্যা বৃদ্ধি পেলে যাকাতও বৃদ্ধি পেয়ে থাকে। প্রতিটি ঘোড়ার যাকাত একদীনার অথবা ঘোড়ার মূল্যের চল্লিশ ভাগের একভাগ।"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

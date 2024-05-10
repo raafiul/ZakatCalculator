@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাতের নিসাব "
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="যে পরিমাণ সম্পদ থাকলে যাকাত ফরয হয়, ইসলামী শরীয়তের পরিভাষায় তাকে নিসাব বলা হয়। রূপার নিসাব দুইশত দিরহাম। দিরহাম হলো ০.৭ মিসকাল ওজন বিশিষ্ট রৌপ্যমূদ্রা। আর প্রতি মিসকালের ওজন ম্যাট্রিক পদ্ধতিতে ৪.৩৭৪ গ্রাম, মতান্তরে ৪.২৫ গ্রাম। আমাদের দেশে মিসকালের ওজন ৪.৩৭৪ গ্রাম হিসাবে রূপার নিসাব ৬১২.৩৫ গ্রাম বা প্রায় সাড়ে বায়ান্ন তোলার সমান ধরা হয়। মিসকালের ওজন ৪.২৫ গ্রাম হিসাবে রূপার নিসাব ৫৯৫ গ্রাম হয়। \n \n
+
+সোনার নিসাব বিশ দিনার। দিনার হলো ১ মিসকাল ওজন বিশিষ্ট স্বর্ণমূদ্রা। আমাদের দেশে মিসকালের ওজন ৪.৩৭৪ গ্রাম হিসাবে সোনার নিসাব ৮৭.৪৮ গ্রাম বা প্রায় সাড়ে সাত তোলার সমান ধরা হয়। মিসকালের ওজন ৪.২৫ গ্রাম হিসাবে সোনার নিসাব দাঁড়ায় ৮৫ গ্রাম। সুদী ব্যবস্থা বিলুপ্ত হওয়ার কারণে মহানবী (সাঃ)-এর সময়ে সোনা-রূপা দ্বারা তৈরী দিনার-দিরহামের মূদ্রাগত মূল্য এবং বস্তুগত মূল্য সমান থাকায় পরবর্তীকালে সোনা-রূপার নিসাব দিনার-দিরহামের ওজন নির্ভরেই নিরূপিত হয়েছে। পণ্যদ্রব্যের নিসাবও এর মূল্যের উপর ভিত্তি করেই নির্ধারিত হয়েছে। সুতরাং ব্যবসাপণ্যের নিসাবও সোনা বা রূপার নিসাবের ন্যায়। অনূন্য নিসাব পরিমাণ ধনসম্পদ এক চান্দ্র বৎসরকাল যাবৎ পূর্ণ মালিকানায় থাকলে সেই সম্পদের মালিকের উপর যাকাত ফরয হয়ে থাকে। জমি থেকে উৎপাদিত/প্রাপ্ত ফসল, ফল-ফলারি ও খনিজদ্রব্যের ক্ষেত্রে চান্দ্র বৎসর পূর্ণ হতে হয় না।
+\n \n
+ভারতীয় উপমহাদেশে সুলতান শের শাহ সূরীর শাসনামলে (১৫৪০-১৫৪৫ইং) ‘রূপী’ নামীয় রৌপ্যমূদ্রার প্রচলন শুরু হয়। তখন রূপীতে এক তোলা রোপা ব্যবহার হতো। পরবর্তীতে ১৮৩৩ ইংরেজি সনে ইস্ট ইন্ডিয়া কোম্পাণী বৃটিশ ভারতে এক তোলা রোপার ওজনবিশিষ্ট রূপী চালু করে, যার ওজন ১১.৬৬৩৮০৩৮ গ্রামের সমান। সেই হিসাবে আমাদের দেশে সাড়ে সাত তোলা সোনা বা সাড়ে বায়ান্ন তোলা রোপাকে যাকাতের নিসাবরূপে ধার্য করা হয়েছে। আমাদের দেশে নিকট অতীতেও আট রত্তিতে এক মাষা, ছয় রত্তিতে এক আনা, বার মাষায় বা ষোল আনায় এক তোলা, পাঁচ তোলায় এক ছটাক, চার ছটাকে এক পোয়া, চার পোয়ায় বা আশি তোলায় এক সের, চল্লিশ সেরে এক মন ইত্যাকার পরিমাপ প্রচলিত ছিল।"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

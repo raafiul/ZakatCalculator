@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text= "ফিতরা আদায়ের নিয়ম"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text=" ঈদুল ফিতরের দিন সুবহে সাদিক থেকে ফিতরা ওয়াজিব হয়। কোন ব্যক্তি এর আগে মারা গেলে তার উপর ফিতরা ওয়াজিব থাকে না। ফিতরা গম, যব, খেজুর, কিশমিশ বা পনির দিয়ে দিতে হয়। এই পরিমাণের অন্য কোন খাদ্যদ্রব্য বা পণ্য দিলে ফিতরা আদায় হবে না। কিন্তু ১৭৬৯ গ্রাম গম অথবা ৩৫৩৮ গ্রাম যব, গম, খেজুর, কিশমিশ বা পনিরের মূল্য কিংবা ঐ মূল্যের অন্য কোন শস্য বা বস্ত্র ইত্যাদিও দেয়া যেতে পারে। নিকটবর্তী বাজারে ঐ সব খাদ্যবস্তু যে দরে পাওয়া যায় , সেই দরেই হিসাব করতে হবে। যাকাতের ন্যায় ফিতরাও পূর্বে বর্ণিত আটটি খাতে ব্যয় করা যায়। ঈদের দিনই ফিতরা আদায় করতে হয়। কিন্তু এর পূর্বে বা পরে দেওয়াও জায়েয আছে ।"
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

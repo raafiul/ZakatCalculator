@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাত কি ?"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#EBEBEB"
+            android:layout_margin="10dp"
+
+
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+
+
+
+                >
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#605A44"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="left"
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:text="যাকাত আরবী শব্দ। দুররুল মুখ্তার কিতাবে আছে, যাকাতের আভিধানিক অর্থ পবিত্রতা ও বৃদ্ধি। তাছাড়া যাকাতের আরো অর্থ রয়েছে; যেমন, বরকত ও প্রশংসা। এই সবগুলো অর্থই ইসলামী শরীয়তে যাকাতের পারিভাষিক অর্থে বিদ্যমান। কেননা, যাকাতের মাধ্যমে যাকাতদাতা গোনাহ থেকে ও কৃপণতার দোষ থেকে পবিত্র হয় এবং তার সম্পদ বর্জ্য অংশ থেকে পরিশুদ্ধ হয়। সূরা তাওবার ১০৩নং আয়াতে রাসুলে আকরাম (সাঃ)-কে সম্বোধন করে আল্লাহ বলেন: “আপনি ধনীদের সম্পদ থেকে সাদাকা সংগ্রহ করে তাদেরকে পবিত্র করুন এবং গরীবদের সম্পদ বৃদ্ধি করুন।” যাকাতের ফলস্বরূপ দুনিয়াতে দরিদ্রের এবং আখিরাতে ধনীর সম্পদ বৃদ্ধি পায়। আল- কুরআনের সূরা সাবার ৩৯নং আয়াতে আছে, “তোমরা যা কিছু দান কর তিনি তার বিনিময় দেন।” সূরা মুযযাম্মিলের ২০ নং আয়াতে আছে, “তোমরা নামায কায়েম কর, যাকাত দাও এবং আল্লাহকে উত্তম ঋণ দাও। তোমরা নিজেদের জন্য যা কিছু আগে পাঠাবে তা আল্লাহর কাছে উত্তম আকারে ও পুরস্কার স্বরূপ বর্ধিত ভাবে পাবে।” যাকাতের মাধ্যমে সম্পদে বরকত হাসিল হয়। মুসনাদে আহমদে আছে, সাদকা দিলে কখনও সম্পদ হ্রাস পায় না। যাকাতদাতা প্রশংসিত হয়ে থাকেন। তার সম্পর্কে লোকে ভালো আলোচনা করে। সূরা আ‘লার ১৪নং আয়াতে আছে, “যে পবিত্রতা অর্জন করে, সে সাফল্য লাভ করে।” \n \n
+
+কুরআন ও হাদীস থেকে জানা যায়, যাকাতের ফলে ধন-সম্পদে সমৃদ্ধি ও বরকত হয়। অধিকন্তু যাকাত প্রদানের মাধ্যমে মানুষ আত্মশুদ্ধি লাভ করে। কুরআন ও হাদীসের পরিভাষায় সম্পদের যে অংশ আল্লাহর পথে ব্যয় করা মুসলিমদের উপর অবশ্য কর্তব্য (ফরয) করা হয়েছে তা-ই যাকাত। ইসলামি আইনশাস্ত্রে এই অর্থেই যাকাত শব্দ ব্যবহৃত হয়েছে। তফসীরকারগণ যাকাতরূপে প্রদত্ত সম্পদ এবং যাকাত প্রদানের কাজ উভয়টিকেই ‘যাকাত’রূপে আখ্যায়িত করেছেন। \n \n
+
+হানাফী গবেষকদের মতে, নিসাব পরিমাণ সম্পদ এক চান্দ্র বৎসর কারো স্বত্বাধিকারে থাকলে সেই সম্পদের যে অংশে কোন বিশেষ শ্রেণীর মানুষের হক সৃষ্টি হয় সেই অংশ হস্তান্তর করার নাম যাকাত। শাফিয়ী গবেষকদের মতে, সম্পদ বা গবাদি পশু থেকে যে নির্দিষ্ট পরিমাণ অংশ দান করা হয় তা-ই যাকাত। মালিকী গবেষকদের মতে, কোন বিশেষ প্রকারের সম্পদ নিসাব পরিমাণ হলে তা থেকে হকদারদের জন্য নির্দিষ্ট পরিমাণে পৃথক করে দেয়ার নাম যাকাত। আর হাম্বলী গবেষকদের মতে, কোন বিশেষ পরিমাণ সম্পদে কোন বিশেষ শ্রেণীর লোকের কোন বিশেষ সময়ে অধিকার প্রতিষ্ঠা হওয়ার নাম যাকাত।"
+
+
+
+                    />
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+
+</LinearLayout>

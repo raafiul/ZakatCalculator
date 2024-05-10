@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাত আদায় না করার শাস্তি"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="যাকাত ফরজ হওয়া সত্ত্বেও যারা যাকাত আদায় করে না তাদের সম্বন্ধে সূরা তাওবার ৩৪-৩৫নং আয়াতে আল্লাহ বলেন,“যে সব লোক সোনা-রূপা জমা করে রাখে এবং তা আল্লাহর রাস্তায় ব্যয় করে না, তাদেরকে এক অতি যন্ত্রণাদায়ক শাস্তির সুসংবাদ শুনিয়ে দিন। সেই দিন জাহান্নামের আগুনে সেই জমাকৃত সম্পদ উত্তপ্ত করা হবে এবং তা দিয়ে তাদের কপাল, তাদেও উভয় পাশ ও পিঠ দগ্ধ করতে করতে তাদেরকে বলা হবে, এইগুলোই তোমরা নিজেদের জন্য জমা করে রেখেছিলে; কাজেই এখন নিজেদের জমাকৃত সম্পদের স্বাদ উপভোগ কর।” রাসূলে কারীম (সাঃ) বলেছেন: যে জাতি যাকাত পরিশোধ করে না আল্লাহ তাদেরকে দুর্ভিক্ষে নিপতিত করেন। (জাম’উল-ফাওয়াইদ, ১ম খ-, পৃষ্ঠা ১৪৬)।
+                \n \n
+
+ইবন হাযম (রহঃ) আল-কুরআনের বহু আয়াত ও হাদীস উধৃত করে প্রমাণ করেছেন, প্রতিটি জনপদের ধনী ব্যক্তিদের আবশ্যিক কর্তব্য হলো সেই জনপদের নিঃস্ব হত- দরিদ্রদের ভরণ-পোষণের দায়িত্ব গ্রহন করা। বায়তুল- মাল তথা রাষ্ট্রীয় কোষাগারে সংরক্ষিত খাদ্যদ্রব্য ও ধন-সম্পদ গরীবদের অভাব মোচনের জন্যে যথেষ্ট না হলে রাষ্ট্রের কর্ণধার ধনীদের উপর অতিরিক্ত কর ধার্য করে তাদেরকে তাদের দায়িত্ব পালনে বাধ্য করতে পারবেন। (মুহাল্লা, ৬ খ-, পৃষ্ঠা ১৬৬)
+\n \n
+(বিশ্ববিখ্যাত ফিক্হ গ্রন্থ আল-হিদায়া, দুররুল মুখতার, উমদাতুল ফিক্হ ও আসমারুল হিদায়া এবং ইসলামিক ফাউন্ডেশন, বাংলাদেশ প্রণীত ইসলামি বিশ্বকোষের যাকাতঅধ্যায় থেকে সংগৃহীত ও সংকলিত।)"
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

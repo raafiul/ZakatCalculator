@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZakatPoriciti"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    >
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাত পরিচিতি"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+            >
+
+            <LinearLayout
+                android:id="@+id/zakat1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাত কি ? "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাতের গুরুত্ব "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাত আধুনিক রাষ্ট্র নির্ধারিত আয়কর নয় "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাতের নিসাব "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাতের পরিমাণ "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাতের ব্যয়ের খাত "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাত আদায় সম্পর্কে কিছু গুরুত্বপূর্ণ বিষয়"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/zakat8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="সাদাকাতুল ফিতর "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="ফিতরার পরিমাণ "
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text=" ফিতরা আদায়ের নিয়ম"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text=" ফিতরার গুরুত্ব"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/zakat12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="#F4EBCF"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textSize="19sp"
+                        android:textColor="#605A44"
+                        android:text="যাকাত আদায় না করার শাস্তি"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+
+
+                        />
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_greater_than"
+                        android:foregroundGravity="right"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+
+
+                        >
+
+
+
+                    </ImageView>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

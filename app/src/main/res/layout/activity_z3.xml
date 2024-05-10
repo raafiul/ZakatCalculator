@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="যাকাত আধুনিক রাষ্ট্র নির্ধারিত আয়কর নয় "
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="যাকাত প্রত্যেক স্বাধীন সুস্থমস্তিষ্ক প্রাপ্তবয়স্ক নিসাব পরিমাণ সম্পদের অধিকারী মুসলিম নর-নারীর জন্য আল্লাহর নির্দেশিত কর্তব্য, তথা অন্যতম ফরয ইবাদত। যাকাত মানুষকে পাপ-পংকিলতা থেকে মুক্তি দানের লক্ষ্যে প্রবর্তিত হয়েছে। এর দ্বারা দুই ধরনের উপকার হয়। প্রথমতঃ যাকাত প্রদানকারী পাপ, ধনলিপ্সা এবং ধনের প্রতি অত্যধিক আসক্তি জনিত চারিত্রিক রোগসমূহের দোষ থেকে মুক্তি পেয়ে থাকে। দ্বিতীয়তঃ সমাজের দীন-দরিদ্র, অনাথ শিশু, বিধবা নারী, বিকলাঙ্গ, উপার্জনে অক্ষম নারী-পুরুষ, ফকীর-মিসকীন প্রভৃতি যারা অত্যাবশ্যক জীবনোপকরণ সংগ্রহ করতে অসমর্থ, এমন নিঃস্ব ও অভাবগ্রস্থ ব্যক্তিরা এই যাকাত দ্বারা লালিত-পালিত হয়ে থাকে। যাকাত প্রদানকারীর কল্যাণ সাধনই ইসলামী যাকাত ব্যবস্থার মূল উদ্দেশ্য এবং দ্বিতীয় প্রকার কল্যাণ আনুষঙ্গিকভাবে সাধিত হয়ে থাকে। এইজন্যেই কোন স্থানে বা কোন সময়ে যাকাত গ্রহণকারী লোকের সন্ধান পাওয়া না গেলেও ধনীদের উপর যাকাত প্রদানের আদেশ সমভাবে বলবৎ থাকে।\n \n
+
+কোন প্রকারের সম্পদ কি পরিমাণে কতদিন অধিকারে থাকলে যাকাত দিতে হয় এবং যাকাতের হার কিরূপ ইত্যাদি সম্বন্ধে ওহীর মাধ্যমে অবগত হয়ে রাসূলে করীম (সাঃ) উম্মতকে বিস্তারিত নির্দেশনা দিয়েছেন। কয়েকজন সাহাবী (রাঃ) তা লিখেও রেখেছেন। আল-কুরআনের দৃষ্টিতে যাকাত ফকীর, মিসকীন ও অভাবগ্রস্থদের প্রাপ্য। এটি যাকাত গ্রহীতাদের প্রতি যাকাতদাতাদের ঐচ্ছিক দান নয়; বরং এটি আবশ্যিক ব্যয়। তাই আল-কুরআনের অসংখ্য আয়াতে এজাতীয় দান বুঝাতে ‘ব্যয় বা খরচ’ অর্থবোধক শব্দ ব্যবহৃত হয়েছে।"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

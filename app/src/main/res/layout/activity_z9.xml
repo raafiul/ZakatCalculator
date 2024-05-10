@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Z1">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ফিতরার পরিমাণ ?"
+        android:textStyle="bold"
+        android:textColor="#605A44"
+        android:textSize="19sp"
+        android:background="#FFECAF"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="7dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EBEBEB"
+        android:layout_margin="10dp"
+
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+
+
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#605A44"
+                android:layout_margin="10dp"
+                android:layout_gravity="left"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:text="ফিতরা মাথাপিছু এক সা’ গম, যব, খেজুর, কিশমিশ অথবা পনির। শুধু গমের ক্ষেত্রে অর্ধ সা’-এর কথাও হাদীসে উল্লেখ আছে। ইমাম আবূ হানিফা (রহঃ)-এর মতে এক সা’ ইরাক অঞ্চলের আট রতলের সমান। ইমাম আবু ইউসুফ (রহঃ), ইমাম মুহাম্মদ (রহঃ), ইমাম মালিক (রহঃ), ইমাম শাফিঈ (রহঃ) ও ইমাম আহ’মদ (রহঃ)-এর মতে এক সা’ হিজায এলাকার পাঁচ সমস্ত তিন ভাগের এক রতলের সমান। দুররুল মুখ্তারের রচয়িতা বলেন, এক হিজাযী রতলে ত্রিশ ইস্তার এবং এক ইরাকী রতলে বিশ ইস্তার হওয়ায় উক্তরূপ মতবিরোধে পরিমাপে কোন পার্থক্য হয় না। উভয় ক্ষেত্রেই এক সা’তে ১৬০ ইস্তার হয়। তাই সর্বসম্মত ভাবে চার মুদে এক সা’ এবং ৬০ সা’তে এক ওসক হয়। আমাদের দেশে বর্তমানে প্রচলিত ওজনে এক ইরাকী রতলে ৪৪২.২৫ গ্রাম এবং এক হিজাযী রতলে ৬৬৩.৪১ গ্রাম হয়। আর উভয় হিসাবেই এক সা’ সমান ৩৫৩৮ গ্রাম এবং আধা সা’ সমান ১৭৬৯ গ্রাম হয়। "
+
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>
